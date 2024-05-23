@@ -1,5 +1,3 @@
-
-https://github.com/mohamed-ibrahim-21/Arduino-UNO-Tests/assets/119154176/eba860ad-7685-4eec-997c-459cb2b1fd86
 # Arduino-UNO-Tests
 Some Arduino UNO Tests
 
