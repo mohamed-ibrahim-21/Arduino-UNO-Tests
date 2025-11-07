@@ -21,4 +21,7 @@ UNO5_TimerWithMillis_Buzzer
 
 https://github.com/mohamed-ibrahim-21/Arduino-UNO-Tests/assets/119154176/b0cefcc6-ad8d-4a90-b560-e30aaa92c257
 
+UNO6_Motion_Sensor
+
+https://github.com/user-attachments/assets/880a6832-4973-4397-b7de-9c71855a969f
 
