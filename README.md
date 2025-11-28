@@ -25,3 +25,8 @@ UNO6_Motion_Sensor
 
 https://github.com/user-attachments/assets/880a6832-4973-4397-b7de-9c71855a969f
 
+UNO7_IR_Sensor_Play_Video
+
+https://github.com/user-attachments/assets/f149e63b-d5fb-49c0-ae47-867a0d72f85e
+
+
